@@ -33,7 +33,7 @@ Interaction logic
 * Visual feedback: The "collective ripple" (blur) will appear simultaneously on your laptop screen and on the screens of all other connected users, creating a shared visual atmosphere.
 
   
-2. Blurb(Core Concept)
+2. Blurb (Core Concept)
    
 This is a networked creative programming work aimed at exploring the intersection between individual initiative and collective presence. The inspiration comes from the cheering sticks at concerts, which change their flashing frequency and color according to the stage effects. This project redefines ubiquitous smartphones as "remote fueling sticks", thereby converting physical energy into a shared digital space.
 
