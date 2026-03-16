@@ -6,7 +6,7 @@ Date: February 9, 2026
 
 1.User Instructions (Operation Manual)
 
-Local Environment Setup
+Local Environment Setup：
 
 1） Prepare files: Make sure the app.js, package.json, index.html, and style.css folders are located in your project directory.
 
@@ -18,7 +18,9 @@ Local Environment Setup
 
 * Laptop (Mac/PC): Open http://localhost:3000 in Chrome or Safari browser. This will be the "stage view".
   
-* Mobile device (iPhone/Android): Since the mobile sensors require a secure connection, you must use services like Render (HTTPS URL) or local tunnels (such as npx localtunnel --port 3000) to access the application on your mobile device. Interaction logic
+* Mobile device (iPhone/Android): Since the mobile sensors require a secure connection, you must use services like Render (HTTPS URL) or local tunnels (such as npx localtunnel --port 3000) to access the application on your mobile device.
+
+Interaction logic
   
 1） Connection: Click the "Initialize Sensors" button on the mobile device.
 
