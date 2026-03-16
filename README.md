@@ -41,11 +41,11 @@ The work creates a real-time feedback loop using WebSocket (Socket.io) and p5.js
 Video demonstration: https://youtu.be/VeWY1L-Ys94
 
 
-4. Future Development
+3. Future Development
 In the future, we plan to use shaking devices to achieve the flickering interaction, which will better replicate the experience of shaking support sticks during concerts. Currently, the interface is not very aesthetically pleasing and we will continue to improve it.
 
 
-5. Acknowledgements
+4. Acknowledgements
 * Library reference: -p5.j s for generative visual rendering.
 * Socket.io for low-latency two-way communication.
 * Express.js for powerful server-side routing.
