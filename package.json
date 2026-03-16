@@ -1,0 +1,12 @@
+{
+  "name": "cheer-stick",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
