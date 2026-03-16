@@ -4,6 +4,9 @@ Author: Yilu Tan
 
 Date: February 9, 2026 
 
+Video link: https://youtu.be/VeWY1L-Ys94
+
+
 1.User Instructions (Operation Manual)
 
 Local Environment Setup：
@@ -38,7 +41,7 @@ Interaction logic
 This is a networked creative programming work aimed at exploring the intersection between individual initiative and collective presence. The inspiration comes from the cheering sticks at concerts, which change their flashing frequency and color according to the stage effects. This project redefines ubiquitous smartphones as "remote fueling sticks", thereby converting physical energy into a shared digital space.
 
 The work creates a real-time feedback loop using WebSocket (Socket.io) and p5.js. When users shake their devices, they not only change their private interface but also participate in the "collective resonance". This interaction reflects the delicate balance between the individual (each stick's unique color) and the collective (the synchronized ripples on the main stage), simulating the emotional bonds present in large-scale live performances.
-Video demonstration: https://youtu.be/VeWY1L-Ys94
+
 
 
 3. Future Development
