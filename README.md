@@ -42,6 +42,7 @@ Video demonstration: https://youtu.be/VeWY1L-Ys94
 
 
 3. Future Development
+
 In the future, we plan to use shaking devices to achieve the flickering interaction, which will better replicate the experience of shaking support sticks during concerts. Currently, the interface is not very aesthetically pleasing and we will continue to improve it.
 
 
